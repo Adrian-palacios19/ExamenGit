@@ -1,5 +1,5 @@
 public class  EmojiFeliz {
-
+//creacion de la clase emoji feliz
     String cara = "feliz";
 
     public void setCara(String cara) {
