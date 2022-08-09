@@ -4,11 +4,11 @@ public class EmojiTriste {
 
     public void setCara(String cara) {
         this.cara = cara;
-        System.out.println("emoji de cara" + this.cara);
+        System.out.println("emoji de cara " + this.cara);
     }
 
     public String getCara(){
-        return  "emoji de cara" + cara;
+        return cara;
     }
 
     void emocion(){
