@@ -4,11 +4,11 @@ public class  EmojiFeliz {
 
     public void setCara(String cara) {
         this.cara = cara;
-        System.out.println("emoji de cara feliz" + this.cara);
+        System.out.println("emoji de cara " + cara);
     }
 
     public String getCara(){
-        return  "emoji de cara feliz" + cara;
+        return cara;
     }
 
     void emocion(){
