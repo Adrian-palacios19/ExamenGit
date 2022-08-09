@@ -1,5 +1,4 @@
 public class EmojiTriste {
-
     //creacion de la clase emoji triste
     String cara = "triste";
 
